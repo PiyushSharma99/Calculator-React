@@ -1,3 +1,5 @@
+![developertype](http://localhost:3000/api/badge/PiyushSharma99.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
